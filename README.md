@@ -8,3 +8,4 @@ RAM Size: 8192MB RAM
 DISK Type: HDD
 DISK Size: 1 TB
 b
+c

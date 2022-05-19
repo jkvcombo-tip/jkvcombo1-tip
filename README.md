@@ -9,3 +9,4 @@ DISK Type: HDD
 DISK Size: 1 TB
 b
 c
+d
